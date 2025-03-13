@@ -3,7 +3,7 @@
 
 ## My social medias
 <a href="https://www.instagram.com/gasparcavalleroo/">
-  <img src="![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 <a/>
 <a href="https://www.linkedin.com/in/gaspar-cavallero-621980351/">
   <img src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)">
