@@ -1,5 +1,5 @@
 ## Hi there 👋, i’m Gaspar
-
+<p>I’m currently studying University Degree in Programming at UTN FRVM</p>
 <!--
 **GasparCavallero/GasparCavallero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
