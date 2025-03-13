@@ -1,10 +1,3 @@
-<head>
-  <style>
-    a {
-      text-decoration: none;
-    }
-  </style>
-<header/>
 ## Hi there 👋, i’m Gaspar
 <p>I’m currently studying University Degree in Programming at UTN FRVM</p>
 
